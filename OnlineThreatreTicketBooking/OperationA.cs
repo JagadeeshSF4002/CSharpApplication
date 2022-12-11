@@ -90,7 +90,6 @@ namespace OnlineThreatreTicketBooking
                 System.Console.WriteLine("**************Invalid ID**************");
             }
 
-
         }
 
         private static MovieDetails ValidateMovieID(string movieID)

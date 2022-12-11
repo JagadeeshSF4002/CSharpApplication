@@ -1,0 +1,15 @@
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\bin\Debug\net6.0\OnlineThreatreTicketBooking.exe
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\bin\Debug\net6.0\OnlineThreatreTicketBooking.deps.json
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\bin\Debug\net6.0\OnlineThreatreTicketBooking.runtimeconfig.json
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\bin\Debug\net6.0\OnlineThreatreTicketBooking.dll
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\bin\Debug\net6.0\OnlineThreatreTicketBooking.pdb
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.csproj.AssemblyReference.cache
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.AssemblyInfoInputs.cache
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.AssemblyInfo.cs
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.csproj.CoreCompileInputs.cache
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.dll
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\refint\OnlineThreatreTicketBooking.dll
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.pdb
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\OnlineThreatreTicketBooking.genruntimeconfig.cache
+D:\jagadeesh\November\C#\Applications\OnlineThreatreTicketBooking\obj\Debug\net6.0\ref\OnlineThreatreTicketBooking.dll
